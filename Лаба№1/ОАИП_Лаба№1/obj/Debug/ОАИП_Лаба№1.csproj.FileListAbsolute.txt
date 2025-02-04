@@ -1,0 +1,14 @@
+C:\Users\Stanislaw\source\repos\ОАИП_Лаба№1\bin\Debug\ОАИП_Лаба№1.exe.config
+C:\Users\Stanislaw\source\repos\ОАИП_Лаба№1\bin\Debug\ОАИП_Лаба№1.exe
+C:\Users\Stanislaw\source\repos\ОАИП_Лаба№1\bin\Debug\ОАИП_Лаба№1.pdb
+C:\Users\Stanislaw\source\repos\ОАИП_Лаба№1\obj\Debug\ОАИП_Лаба№1.csproj.AssemblyReference.cache
+C:\Users\Stanislaw\source\repos\ОАИП_Лаба№1\obj\Debug\ОАИП_Лаба_1.Properties.Resources.resources
+C:\Users\Stanislaw\source\repos\ОАИП_Лаба№1\obj\Debug\ОАИП_Лаба№1.csproj.GenerateResource.cache
+C:\Users\Stanislaw\source\repos\ОАИП_Лаба№1\obj\Debug\ОАИП_Лаба№1.csproj.CoreCompileInputs.cache
+C:\Users\Stanislaw\source\repos\ОАИП_Лаба№1\obj\Debug\ОАИП_Лаба№1.exe
+C:\Users\Stanislaw\source\repos\ОАИП_Лаба№1\obj\Debug\ОАИП_Лаба№1.pdb
+C:\Users\Stanislaw\source\repos\ОАИП_Лаба№1\obj\Debug\ОАИП_Лаба_1.Task1.resources
+C:\Users\Stanislaw\source\repos\ОАИП_Лаба№1\obj\Debug\ОАИП_Лаба_1.Task2.resources
+C:\Users\Stanislaw\source\repos\ОАИП_Лаба№1\obj\Debug\ОАИП_Лаба_1.Task3.resources
+C:\Users\Stanislaw\source\repos\ОАИП_Лаба№1\obj\Debug\ОАИП_Лаба_1.Task4.resources
+C:\Users\Stanislaw\source\repos\ОАИП_Лаба№1\obj\Debug\ОАИП_Лаба_1.Task5.resources
